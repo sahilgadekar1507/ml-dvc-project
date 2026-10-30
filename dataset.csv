@@ -1,0 +1,12 @@
+[1mdiff --git a/data/dataset.csv.dvc b/data/dataset.csv.dvc[m
+[1mindex 4d743f4..66f35ca 100644[m
+[1m--- a/data/dataset.csv.dvc[m
+[1m+++ b/data/dataset.csv.dvc[m
+[36m@@ -1,5 +1,5 @@[m
+ outs:[m
+[31m-- md5: 3ef90ff2b9e8b801caf41904ff53e571[m
+[31m-  size: 80[m
+[32m+[m[32m- md5: 00f9e9aaf1b18023c0f2a7cf08b4d8fd[m
+[32m+[m[32m  size: 93[m
+   hash: md5[m
+   path: dataset.csv[m
